@@ -12,7 +12,7 @@ const App = () => {
     <BrowserRouter>
       <div>
         <div className="anim_index">
-          <Link to="/transition">Transition</Link>
+          {/* <Link to="/transition">Transition</Link> */}
           <Link to="/csstransition">CSStransition</Link>
           <Link to="/tgroup">Transitions group</Link>
         </div>
